@@ -101,6 +101,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/omats1/omats1/output/snake.svg" alt="Snake animation" />
-
-###
