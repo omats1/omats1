@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h1 align="left">About me</h1>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h2 align="left">tech stack</h2>
+<h1 align="left">tech stack</h1>
 
 ###
 
@@ -77,5 +77,30 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
 </div>
+
+###
+
+<h1 align="left">connect with me on</h1>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mathias-olah/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="@mathias_olah" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="olahmathias@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="olahmathias@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
+  </a>
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/omats1/omats1/output/snake.svg" alt="Snake animation" />
 
 ###
